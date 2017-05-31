@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "396079362496",
+    "firebase_url": "https://smartfoodie-f8892.firebaseio.com",
+    "project_id": "smartfoodie-f8892",
+    "storage_bucket": "smartfoodie-f8892.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:396079362496:android:a15b1cbb6e7b1bbc",
+        "android_client_info": {
+          "package_name": "com.example.dell.mycook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "396079362496-ivj8loauvsv6sc3mkglrar1kbr0hn2fe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.dell.mycook",
+            "certificate_hash": "d3ad48f85368563ab5d571b5675168e74dcb07c8"
+          }
+        },
+        {
+          "client_id": "396079362496-q6sghqo1k5m9mi7eln2a9a88oa8tf8be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUD3JqVDRVSkNKXY2WIBIpjECRUZS8Q74"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "396079362496-q6sghqo1k5m9mi7eln2a9a88oa8tf8be.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
